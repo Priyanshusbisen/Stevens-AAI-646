@@ -1,7 +1,9 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# ECG arrhythmia classification using an MLE model
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+This is established on the paper for the classification with CNN models linked [here](https://arxiv.org/pdf/1804.06812v1.pdf).
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## References
++ [ECG arrhythmia classification using a 2-D convolutional neural network](https://arxiv.org/pdf/1804.06812v1.pdf)
++ [Support vector machine-based expert system for reliable heartbeat recognition](https://ieeexplore.ieee.org/document/1275573)
++ [MIT-BIH arythmia database](https://archive.physionet.org/physiobank/database/mitdb/)
